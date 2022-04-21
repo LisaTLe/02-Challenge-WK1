@@ -18,3 +18,4 @@ This webpage is for a marketing company and it optimized for search engines.
 <h2> Deploy Link </h2>
 
 <h2> Screenshot </h2>
+<img src="screenshot.png"/>
