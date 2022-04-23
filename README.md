@@ -1,26 +1,28 @@
 # 02-Challenge-WK1
 by Lisa Le
-<BR>
+
 A simple accessible interface for a marketing agency
 <h2> Technologies Used </h2>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-    </ul>
+    
+        -HTML
+        -CSS
+   
 <h2> Changes Made </h2>
-    <ul>
-        <li>Semantics were renamed in HTML to correlate with layout form </li>
-        <li> Alt attributes were added to images </li>
-        <li> Consolidated CSS properties and selectors </li>
-        <li>Comments were made on CSS and HTML files </li>
-        <li> Structure and format was update for better organization </li>
+    
+        - Semantics were renamed in HTML to correlate with layout form 
+        - Alt attributes were added to images 
+        - Consolidated CSS properties and selectors 
+        - Comments were made on CSS and HTML files 
+        - Structure and format was update for better organization
+
 <h2> Setup/Installation Requirements </h2>
-    <ul>
-        <li>Clone repository to desktop</li>
-        <li>Navigate file in directory</li>
-        <li>Open index.html in browser</li>
-    </ul>
+    
+        -Clone repository to desktop
+        -Navigate file in directory
+        -Open index.html in browser
+    
 <h2> Deploy Link </h2>
-<a href="https://lisatle.github.io/02-Challenge-WK1/">Horiseon Project Link</a>
+[Horiseon Project Link] (https://lisatle.github.io/02-Challenge-WK1/")
+
 <h2> Screenshot </h2>
-<img src="screenshot.png"/>
+![Screenshot] (Screenshot.PNG "Horiseon Screenshot")
