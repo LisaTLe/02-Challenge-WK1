@@ -25,4 +25,4 @@ A simple accessible interface for a marketing agency
 [Horiseon Project Link] (https://lisatle.github.io/02-Challenge-WK1/")
 
 <h2> Screenshot </h2>
-![Screenshot] (Screenshot.PNG "Horiseon Screenshot")
+![Screenshot] (/relative/path/to/Screenshot.PNG "Horiseon Screenshot")
