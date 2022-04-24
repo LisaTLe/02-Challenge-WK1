@@ -2,6 +2,7 @@
 by Lisa Le
 
 A simple accessible interface for a marketing agency
+
 <h2> Technologies Used </h2>
     
         -HTML
@@ -22,7 +23,9 @@ A simple accessible interface for a marketing agency
         -Open index.html in browser
     
 <h2> Deploy Link </h2>
+
 <a href="https://lisatle.github.io/02-Challenge-WK1/">Horiseon Project Link</a>
 
 <h2> Screenshot </h2>
+
 ![Screenshot](Screenshot.PNG)
