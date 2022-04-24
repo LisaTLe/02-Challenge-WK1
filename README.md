@@ -22,7 +22,7 @@ A simple accessible interface for a marketing agency
         -Open index.html in browser
     
 <h2> Deploy Link </h2>
-[Horiseon Project Link] (https://lisatle.github.io/02-Challenge-WK1/")
+[Horiseon Project Link](https://lisatle.github.io/02-Challenge-WK1/")
 
 <h2> Screenshot </h2>
-![Screenshot] (/relative/path/to/Screenshot.PNG "Horiseon Screenshot")
+![Screenshot](/relative/path/to/Screenshot.PNG "Horiseon Screenshot")
